@@ -14,7 +14,7 @@ techniques and they are used to train the networks. The model uses the residual
 network (VGG16).We evaluated the results of our model using evaluation metrics 
 such as accuracy, balanced accuracy, and F1-score. With the Fabric dataset, a 
 maximum classification accuracy of 80% is achieved in the conducted simulations. The 
-experimental results show that the proposed model is robust and achieves state-ofthe-art accuracy even when the physical properties of the fabric are changed. We 
+experimental results show that the proposed model is robust and achieves state-of-the-art accuracy even when the physical properties of the fabric are changed. We 
 compared our results with other baseline approaches and a pertained Resnet50 deep 
 learning model which showed that the proposed method achieved higher accuracy.
 Also, we create a Web Application of this model on Streamlit which 
