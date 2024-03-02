@@ -6,6 +6,7 @@ Moreover, the approaches based on early machine learning algorithms directly
 depend on handcrafted features, which are time-consuming and error-prone 
 processes. Hence, an AI system is needed for classification of fabric in Machine-made 
 and Handmade. 
+
 In this Project Report, we propose a deep learning model based on 
 data augmentation and learning approach for the classification and recognition of 
 Difference between Machine-made and Handmade Fabric. The fabric images are 
@@ -17,6 +18,7 @@ maximum classification accuracy of 80% is achieved in the conducted simulations.
 experimental results show that the proposed model is robust and achieves state-of-the-art accuracy even when the physical properties of the fabric are changed. We 
 compared our results with other baseline approaches and a pertained Resnet50 deep 
 learning model which showed that the proposed method achieved higher accuracy.
-Also, we create a Web Application of this model on Streamlit which 
+
+Also, we created a Web Application of this model on Streamlit which 
 is open-source framework to rapidly build web apps. It is a Python-based library 
 specifically designed for machine learning engineers.
